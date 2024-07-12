@@ -36,6 +36,14 @@ Projeto para gerenciamento de reservas. Back: Java/SpringBoot.
 - `Implementar camada de segurança adicional de autorização;`
 - `Implementar serviço apartado de interface com brokers de pagamento;`
 
+# Modelagem
+
+![](https://github.com/eliezerneto/productsapp/blob/main/Modelagem.png)
+
+# Arquitetura mínima para deploy
+
+![](https://github.com/eliezerneto/productsapp/blob/main/Arquitetura.png)
+
 # Deseja contribuir ?
 
 Seguimos as orientações do GitFlow, portanto a criação das branches deve seguir o padrão abaixo:
