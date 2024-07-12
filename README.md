@@ -38,11 +38,11 @@ Projeto para gerenciamento de reservas. Back: Java/SpringBoot.
 
 # Modelagem
 
-![](https://github.com/eliezerneto/productsapp/blob/main/Modelagem.png)
+![](https://github.com/eliezerneto/booking/blob/main/Modelagem.png)
 
 # Arquitetura mínima para deploy
 
-![](https://github.com/eliezerneto/productsapp/blob/main/Arquitetura.png)
+![](https://github.com/eliezerneto/booking/blob/main/Arquitetura.png)
 
 # Deseja contribuir ?
 
