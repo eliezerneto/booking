@@ -1,0 +1,18 @@
+package br.com.booking.corebookingapi.dto;
+
+import jakarta.validation.constraints.NotEmpty;
+import jakarta.validation.constraints.NotNull;
+import lombok.*;
+
+@Data
+@Builder
+@AllArgsConstructor
+@NoArgsConstructor
+@EqualsAndHashCode
+public class CreateUpdateCityDTO {
+    @NotEmpty
+    @NotNull
+    private String name;
+    @NotNull
+    private Long idCountry;
+}
